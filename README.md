@@ -54,19 +54,31 @@
 <h3 align="center">📈 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsmags&layout=compact&theme=dark&bg_color=000000&text_color=ffffff" alt="Top Langs" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=alexsmags&show_icons=true&theme=dark&bg_color=000000&text_color=ffffff" 
+    alt="GitHub Stats" 
+    hspace="20"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsmags&layout=compact&theme=dark&bg_color=000000&text_color=ffffff" 
+    alt="Top Langs" 
+  />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexsmags&show_icons=true&theme=dark&bg_color=000000&text_color=ffffff" alt="GitHub Stats" />
-</p>
+
 
 ---
-
 <!-- 💬 Footer Fun -->
 <h3 align="center">💬 Thanks for visiting my profile!</h3>
 
+<div align="center" style="margin-top: 10px;">
+  <img src="https://raw.githubusercontent.com/alexsmags/alexsmags/d11b51cf00cd32c7531c4fdce824b49c7c792d3e/github-snake-dark.svg" alt="GitHub Snake Animation" width="80%" />
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alexsmags&style=flat-square&color=000000" alt="Profile views" />
-</p>
+<div align="center" style="margin-top: 15px;">
+  <img 
+    src="https://komarev.com/ghpvc/?username=alexsmags&style=flat-square&color=000000" 
+    alt="Profile views" 
+    width="115"
+  />
+</div>
 
