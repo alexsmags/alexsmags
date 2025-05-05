@@ -65,9 +65,6 @@
 <!-- 💬 Footer Fun -->
 <h3 align="center">💬 Thanks for visiting my profile!</h3>
 
-<p align="center">
-  🚀 Let's build something awesome together!
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=alexsmags&style=flat-square&color=000000" alt="Profile views" />
