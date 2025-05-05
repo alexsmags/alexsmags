@@ -69,9 +69,12 @@
 ---
 
 <!-- 💬 Footer Fun -->
-<h3 align="center">💬 Thanks for visiting my profile!</h3>
 
 <div align="center" style="margin-top: 10px;">
   <img src="https://raw.githubusercontent.com/alexsmags/alexsmags/d11b51cf00cd32c7531c4fdce824b49c7c792d3e/github-snake-dark.svg" alt="GitHub Snake Animation" width="80%" />
 </div>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=70&lines=Thanks+For+Visiting+My+Profile!" alt="Typing SVG" />
+</h3>
 
