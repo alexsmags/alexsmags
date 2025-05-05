@@ -1,5 +1,6 @@
+<!-- ✨ Intro Section with Typing Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Alexander+Smagorinski;A+Passionate+Full-Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Alexander+Smagorinski;A+Passionate+Full-Stack+Developer" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -7,18 +8,23 @@
   📫 Reach me at: <strong>alexsmag@gmail.com</strong>
 </p>
 
-<h3 align="center">🌐 Connect with me:</h3>
+---
+
+<!-- 🌐 Social -->
+<h3 align="center">🌐 Connect with me</h3>
 <p align="center">
   <a href="https://linkedin.com/in/alexander-smagorinski" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-Alexander%20Smagorinski-black?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
 
 ---
 
+<!-- 🛠️ Tools -->
 <h3 align="center">🛠️ Languages & Tools</h3>
+
 <p align="center">
-  <!-- Tools are grouped and wrapped for a clean, modern grid look -->
+  <!-- Tech stack icons -->
   <a href="https://azure.microsoft.com/"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40"/></a>
   <a href="https://www.w3schools.com/cs/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40"/></a>
   <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40"/></a>
@@ -44,10 +50,26 @@
 
 ---
 
+<!-- 📈 Stats -->
 <h3 align="center">📈 GitHub Stats</h3>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsmags&layout=compact&theme=dark&bg_color=000000&text_color=ffffff" alt="Top Langs" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alexsmags&show_icons=true&theme=dark&bg_color=000000&text_color=ffffff" alt="GitHub Stats" />
 </p>
+
+---
+
+<!-- 💬 Footer Fun -->
+<h3 align="center">💬 Thanks for visiting my profile!</h3>
+
+<p align="center">
+  🚀 Let's build something awesome together!
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=alexsmags&style=flat-square&color=000000" alt="Profile views" />
+</p>
+
