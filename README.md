@@ -75,6 +75,6 @@
 </div>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=70&lines=Thanks+For+Visiting+My+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=70&lines=Thanks+For+Visiting+My+Profile!+%F0%9F%98%8A" alt="Typing SVG" />
 </h3>
 
